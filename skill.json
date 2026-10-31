@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-information-diet-entropy-pruner-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Information Diet Entropy Pruner - Zero-dependency Shannon information entropy calculator, Jaccard lexical repetition echo-chamber auditor, and decibel Signal-to-Noise Ratio (SNR) content source ranker.",
+  "tools": [
+    "calculate_feed_information_entropy",
+    "audit_information_diet_echo_chamber",
+    "rank_content_sources_snr"
+  ]
+}
